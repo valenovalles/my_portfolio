@@ -1,0 +1,25 @@
+[
+    {
+        "image": "./images/skin.JPG",
+        "title": "Skin & Co",
+        "extract": "Test de 4 preguntas para conocer el tipo de piel. Tecnologías: HTML, CSS, JavaScript, React",
+        "link": "https://valenovalles.github.io/app_skin_type/",
+        "id": "1"
+    },
+
+    {
+        "image": "./images/rick.JPG",
+        "title": "Rick and Morty",
+        "extract": "Buscador de personajes con filtros y página detalle. Tecnologías: HTML, CSS, JavaScript, React",
+        "link": "https://valenovalles.github.io/modulo-3-evaluacion-final-valenovalles/",
+        "id": "2"
+    },
+    {
+        "image": "./images/cocteles.JPG",
+        "title": "My Fav Coctel",
+        "extract": "Buscador de cócteles. Tecnologías: HTML, CSS, JavaScript",
+        "link": "https://valenovalles.github.io/modulo-2-evaluacion-final-valenovalles/",
+        "id": "3"
+    }
+
+]

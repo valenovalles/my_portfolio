@@ -1,0 +1,17 @@
+[
+    {
+        "image": "./images/light-bulb.png",
+        "text": "Creatividad y productividad"
+    },
+
+    {
+        "image": "./images/puzzle-game.png",
+        "text": "Resolución de problemas"
+    },
+
+    {
+        "image": "./images/terminal.png",
+        "text": "Rápido aprendizaje"
+    }
+
+]
