@@ -20,6 +20,13 @@
         "extract": "Buscador de cócteles. Tecnologías: HTML, CSS, JavaScript",
         "link": "https://valenovalles.github.io/modulo-2-evaluacion-final-valenovalles/",
         "id": "3"
+    }, 
+    {
+        "image": "./images/weather.JPG",
+        "title": "Check the Weather",
+        "extract": "App que se conecta a una API para consultar la temperatura de tu ciudad.",
+        "link": "https://valenovalles.github.io/weather_project/",
+        "id": "4"
     }
 
 ]
