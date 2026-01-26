@@ -8,8 +8,9 @@ html{
 }
 
 .menu{
-    background-color: #E18777;
+    background-color: #FFFFFF;
     padding: 10px;
+    padding-left: 60px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -67,7 +68,7 @@ html{
 
 
 .ppal__section{
-    background-color: #F6DCD7;
+    background-color: #FAFAFA;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -90,7 +91,7 @@ html{
     
     &--aboutMe{
         font-family: "Montserrat", sans-serif;
-        font-size: 1.5rem;
+        font-size: 1.2rem;
         padding-bottom: 15px;
     }
         
@@ -100,7 +101,7 @@ html{
 .projects{
     text-align: center;
     padding-top: 5%;
-    background-color: #FCEEEE;
+    background-color: #FAFAFA;
     padding: 30px;
 
     &__list{
@@ -108,7 +109,7 @@ html{
     grid-template-columns: 1fr;
     text-align: center;
     padding-top: 5%;
-    background-color: #FCEEEE;
+    background-color: #FAFAFA;
     padding: 30px;
     gap: 20px;
     
@@ -160,7 +161,7 @@ html{
 .technologies{
     padding-top: 50px;
     padding-bottom: 50px;
-    background-color: #F6DCD7;
+    background-color: #FAFAFA;
 
     &__title{
         text-align: center;
@@ -176,7 +177,7 @@ html{
 }
 
 .skills{
-    background-color: #FCEEEE;
+    background-color: #FAFAFA;
     text-align: center;
     padding: 20px;
 
@@ -310,8 +311,11 @@ a {
     text-decoration: none; 
 
     :hover{
-        color: #fabeb1;
+        background-color: #7C7CF8;
+        color: white;
+        padding: 5px;
         font-weight: bold;
+        border-radius: 5px;
     }
   }
   
