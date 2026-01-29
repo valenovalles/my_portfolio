@@ -21,7 +21,7 @@ function Ppal() {
         </div>
 
         <p className='ppal__section--aboutMe'>
-          Front-End Developer Junior con una sólida trayectoria en marketing y una pasión por la tecnología. Mi experiencia en marketing me ofrece una visión estratégica y habilidades de comunicación que ahora aplico en el desarrollo web.
+          Front-End Developer con una sólida trayectoria en marketing y una pasión por la tecnología. Mi experiencia en marketing me ofrece una visión estratégica y habilidades de comunicación que ahora aplico en el desarrollo web.
         </p>
 
         <div style={{ display: 'flex', gap: '16px', marginTop: '16px', justifyContent: 'center' }}>
