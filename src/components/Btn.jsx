@@ -30,7 +30,7 @@ Btn.propTypes = {
 Btn.defaultProps = {
   text: 'Botón',
   bgColor: '#007bff',
-  textColor: '#6B7280',
+  textColor: 'white',
 };
 
 export default Btn;

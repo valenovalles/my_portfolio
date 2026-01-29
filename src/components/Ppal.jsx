@@ -27,7 +27,7 @@ function Ppal() {
         <div style={{ display: 'flex', gap: '16px', marginTop: '16px', justifyContent: 'center' }}>
           <Btn
             text="VER CV"
-            bgColor="#DCFCE7"
+            bgColor="#7C7CF8"
             onClick={() =>
               window.open(
                 'https://drive.google.com/file/d/17NdS3m2_biS4V9IAOEvTO9wdPLiN2DoY/view?usp=sharing',
@@ -37,7 +37,7 @@ function Ppal() {
           />
           <Btn
             text="PERFIL LINKEDIN"
-            bgColor="#FEF9C3"
+            bgColor="#5B5BE6"
             onClick={() =>
               window.open(
                 'https://www.linkedin.com/in/valentinaovallesr/',
